@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hru:home|Door43 (hru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hru|d43-hru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hru/archive/master.zip|d43-hru.zip]]
+
+**Recent Changes**
+{{changes>ns = hru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hru|Ethnologue data]]
+
